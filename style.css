@@ -1,0 +1,10 @@
+body {
+  justify-content: center;
+}
+.container {
+  position: relative;
+  justify-content: center;
+}
+.container img {
+  width: 100%;
+}
